@@ -2275,6 +2275,30 @@ footer ul a:hover{
 		text-decoration: none;
 	}
 }
+@media only screen and (max-width:430px){
+	.banner{
+		width: 100%;
+		min-height: 50vh;
+		padding: 10px 0;
+	}
+	.hero{
+		width: 97%;
+		margin: auto;
+		margin-top: 4rem;
+		flex-grow: 1;
+		padding: 10px;
+	}
+	.hero .text p{
+		font-size: 10px;
+		line-height: 18px;
+		font-weight: 420;
+		max-width: 500;
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		margin-bottom: 5px;
+	}	
+}
 @media only screen and (max-width: 425px){
 	nav{
 		width: 90%;
@@ -2592,6 +2616,148 @@ footer ul a:hover{
 		font-weight: 420;
 		text-decoration: none;
 	}
+}
+@media only screen and (max-width:414px){
+	.banner{
+		width: 100%;
+		min-height: 60vh;
+		padding: 10px 0;
+	}
+	.hero{
+		width: 97%;
+		margin: auto;
+		margin-top: 4rem;
+		flex-grow: 1;
+		padding: 10px;
+	}
+	.hero .text h1{
+		font-size: 25px;
+		letter-spacing: 1px;
+		font-weight: 540;
+	}
+	.hero .text p{
+		font-size: 10px;
+		line-height: 17px;
+		font-weight: 420;
+		max-width: 500;
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		margin-bottom: 5px;
+	}	
+}
+@media only screen and (max-width:412px){
+	.banner{
+		width: 100%;
+		min-height: 50vh;
+		padding: 10px 0;
+	}
+	.hero{
+		width: 97%;
+		margin: auto;
+		margin-top: 4rem;
+		flex-grow: 1;
+		padding: 10px;
+	}
+	.hero .text h1{
+		font-size: 25px;
+		letter-spacing: 1px;
+		font-weight: 540;
+	}
+	.hero .text p{
+		font-size: 10px;
+		line-height: 17px;
+		font-weight: 420;
+		max-width: 500;
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		margin-bottom: 5px;
+	}	
+}
+@media only screen and (max-width:390px){
+	.banner{
+		width: 100%;
+		min-height: 60vh;
+		padding: 10px 0;
+	}
+	.hero{
+		width: 97%;
+		margin: auto;
+		margin-top: 5rem;
+		flex-grow: 1;
+		padding: 10px;
+	}
+	.hero .text p{
+		font-size: 10px;
+		line-height: 18px;
+		font-weight: 420;
+		max-width: 500;
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		margin-bottom: 5px;
+	}	
+}
+@media only screen and (max-width:375px){
+	.banner{
+		width: 100%;
+		min-height: 65vh;
+		padding: 10px 0;
+		background: #111;
+		background-image:linear-gradient(to bottom,rgba(0, 0, 0, 0.534),
+		rgb(0, 0, 0)),url(images/cap-1.jpg);
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.hero{
+		width: 97%;
+		margin: auto;
+		margin-top: 4rem;
+		flex-grow: 1;
+		padding: 10px;
+	}
+	.hero .text p{
+		font-size: 10px;
+		line-height: 18px;
+		font-weight: 420;
+		max-width: 500;
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		margin-bottom: 5px;
+	}	
+}
+@media only screen and (max-width:360px){
+	.banner{
+		width: 100%;
+		min-height: 65vh;
+		padding: 10px 0;
+		background: #111;
+		background-image:linear-gradient(to bottom,rgba(0, 0, 0, 0.534),
+		rgb(0, 0, 0)),url(images/cap-1.jpg);
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.hero{
+		width: 97%;
+		margin: auto;
+		margin-top: 4rem;
+		flex-grow: 1;
+		padding: 10px;
+	}
+	.hero .text p{
+		font-size: 10px;
+		line-height: 18px;
+		font-weight: 420;
+		max-width: 500;
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		margin-bottom: 5px;
+	}	
 }
 @media only screen and (max-width: 335px){
 	nav{
